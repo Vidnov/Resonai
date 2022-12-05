@@ -88,5 +88,9 @@ export default {
       translate: "第二節",
       link:'#section2',
       status:false,
-    }]
+    }],
+  title:{
+    text:'My amazing website',
+    textTranslate:'我的神奇網站'
+  }
 }

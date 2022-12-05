@@ -1,7 +1,7 @@
 <template>
   <nav class="nav">
     <div class="container space">
-      <div class="title" @click="activeLink"><nuxt-link class="h1" to="/" >My amazing website</nuxt-link></div>
+      <v-title @activeLink="activeLink" :title="title" :isTranslate="isTranslate"/>
       <v-logo value="НВ"/>
       <div class="right">
         <ul class="list" v-if="isTranslate">
@@ -23,7 +23,8 @@ export default {
   data(){
     return {
       link:[
-      ]
+      ],
+      title:''
     }
   },
   computed:{
@@ -32,7 +33,8 @@ export default {
     ]),
   },
   fetch(){
-    this.link = data.nav
+    this.link = data.nav;
+    this.title = data.title;
   },
   methods: {
     activeLink(el) {
