@@ -1,30 +1,29 @@
 <template>
   <div class="container">
     <div class="content">
-      <v-item v-for="item in data" :key="item.key" :title="item.title" :text="item.text"/>
+      <v-item v-for="item in data"
+              :key="item.key"
+              :title="item.title"
+              :text="item.text"
+              :translate-title="item.translateTitle"
+              :translate-text="item.translateText"
+      />
     </div>
   </div>
 
 </template>
 
 <script>
+import data from '~/static/data'
 export default {
   name:'IndexPage',
   data(){
     return {
-      data:[
-        {
-          id: 0,
-          title: 'Заголовок 1',
-          text: '1231231'
-        },
-        {
-          id: 1,
-          title: 'Заголовок 2',
-          text:'123'
-        }
-        ]
+      data:[]
     }
+  },
+  fetch(){
+    this.data=data.result;
   }
 }
 </script>

@@ -1,83 +1,40 @@
 <template>
   <section class="item" id="section2">
-    <h2>Заголовок 2</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-
-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt minus placeat quae? Ex exercitationem fugiat nisi repellendus. Doloremque et quia quidem.
-      Dolores hic iusto nemo placeat quasi. Autem, facilis, hic!
+    <h2 v-if="isTranslate">{{translateTitle}}</h2>
+    <h2 v-else>{{title}}</h2>
+    <p v-if="isTranslate">
+      {{translateText}}
+    </p>
+    <p v-else>
+      {{text}}
     </p>
   </section>
 </template>
 
 <script>
+import {mapGetters} from "vuex";
+
 export default {
-  name: "vItem"
+  name: "vItem",
+  computed:{
+    ...mapGetters('stateBody',[
+      'isTranslate',
+    ]),
+  },
+  props:{
+    title: {
+      type:String,
+    },
+    text: {
+      type:String,
+    },
+    translateTitle: {
+      type:String
+    },
+    translateText: {
+      type:String
+    }
+  }
 }
 </script>
 

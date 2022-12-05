@@ -4,7 +4,10 @@
       <div class="title" @click="activeLink"><nuxt-link class="h1" to="/" >My amazing website</nuxt-link></div>
       <v-logo value="НВ"/>
       <div class="right">
-        <ul class="list">
+        <ul class="list" v-if="isTranslate">
+          <li v-for="item in link" :key="item.id" @click="activeLink(item)"><nuxt-link :to="item.link" :class="{'active':item.status}" >{{item.translate}}</nuxt-link></li>
+        </ul>
+        <ul class="list" v-else>
           <li v-for="item in link" :key="item.id" @click="activeLink(item)"><nuxt-link :to="item.link" :class="{'active':item.status}" >{{item.title}}</nuxt-link></li>
         </ul>
         <v-i-translate/>
@@ -13,25 +16,23 @@
   </nav>
 </template>
 <script>
+import data from '~/static/data'
+import {mapGetters} from "vuex";
 export default {
   name: 'IndexPage',
   data(){
     return {
       link:[
-        {
-          id:0,
-          title:"Первая секция",
-          link:'#section1',
-          status:false,
-        },
-        {
-          id:1,
-          title:"Вторая секция",
-          link:'#section2',
-          status:false,
-        }
       ]
     }
+  },
+  computed:{
+    ...mapGetters('stateBody',[
+      'isTranslate',
+    ]),
+  },
+  fetch(){
+    this.link = data.nav
   },
   methods: {
     activeLink(el) {
