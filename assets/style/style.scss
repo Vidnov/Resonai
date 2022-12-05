@@ -1,0 +1,91 @@
+@import './variables/colors.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik400';
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  background: white;
+}
+
+h1 {
+  font-family: 'Rubik700';
+  font-weight: 700;
+  font-size: 24px;
+  font-style: normal;
+  letter-spacing: 0em;
+  color: $orange;
+}
+
+h2 {
+  font-family: 'Rubik700';
+  font-weight: 700;
+  font-size: 20px;
+  font-style: normal;
+  letter-spacing: 0em;
+  color: $black;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: 'Rubik700';
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+  color: $orange;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Rubik400';
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #353332;
+}
+
+span {
+  font-family: 'Rubik400';
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+p {
+  font-family: 'Rubik400';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: center;
+  margin: 0;
+}
+
+a {
+  font-family: 'Rubik500';
+  font-size: 14px;
+  text-align: left;
+  text-decoration: none;
+  font-style: normal;
+  color: $gray;
+}
+
+a:hover {
+  color: $black;
+}
+
+.active {
+  color: $black;
+}
+
+.container {
+  padding: 17px 40px;
+}
