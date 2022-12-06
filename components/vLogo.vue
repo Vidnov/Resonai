@@ -43,6 +43,10 @@ export default {
   display: flex;
   align-items: center;
 }
+.logo:hover{
+  transition: transform 3s;
+  transform:rotate(360deg);
+}
 .rounded{
   border-radius: 50%;
   box-shadow: 0 0 7px #666; /* Параметры тени */

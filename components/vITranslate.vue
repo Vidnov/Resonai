@@ -1,5 +1,5 @@
 <template>
-  <div @click="translate"><img :src="Itranslate" alt="Иконка перевода"> </div>
+  <div @click="translate" class="icon"><img :src="Itranslate" alt="Иконка перевода"> </div>
 </template>
 <script>
 import Itranslate from "~/assets/icon/translate.svg"
@@ -19,5 +19,11 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
+ .icon{
+   cursor: pointer;
+ }
+ .icon:hover{
+   transition:transform .5s;
+   transform:scale(1.2) ;
+   }
 </style>
