@@ -2,7 +2,7 @@
   <nav class="nav">
     <div class="container space">
       <v-title @activeLink="activeLink" :title="title" :isTranslate="isTranslate"/>
-      <v-logo :value="logo"/>
+      <v-logo :value="logo" :avatar="avatar" />
       <div class="right">
         <ul class="list" v-if="isTranslate">
           <li  v-for="item in link" :key="item.id" @click="activeLink(item)"><nuxt-link :to="item.link" :class="{'active':item.status}" >{{item.translate}}</nuxt-link></li>
@@ -26,7 +26,8 @@ export default {
       ],
       title:'',
       first_name:'',
-      last_name:''
+      last_name:'',
+      avatar: ""
     }
   },
   computed:{
@@ -39,11 +40,12 @@ export default {
   },
   async fetch(){
     const result =  await this.$axios.$get('https://reqres.in/api/users/2');
-    const {data: {first_name, last_name}} = result;
+    const {data: {first_name, last_name, avatar}} = result;
     this.link = data.nav;
     this.title = data.title;
     this.first_name = first_name;
     this.last_name = last_name;
+    this.avatar = avatar;
   },
   methods: {
     activeLink(el) {
