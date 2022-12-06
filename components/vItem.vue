@@ -1,11 +1,11 @@
 <template>
   <section class="item" id="section2">
-    <h2 v-if="isTranslate">{{translateTitle}}</h2>
-    <h2 v-else>{{title}}</h2>
-    <p v-if="isTranslate">
+    <h2 contenteditable v-if="isTranslate">{{translateTitle}}</h2>
+    <h2 contenteditable v-else>{{title}}</h2>
+    <p  contenteditable v-if="isTranslate">
       {{translateText}}
     </p>
-    <p v-else>
+    <p contenteditable v-else>
       {{text}}
     </p>
   </section>
